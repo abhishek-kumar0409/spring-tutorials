@@ -1,0 +1,27 @@
+Project Deliverables
+Implemented an asynchronous solution to optimize the performance time for the package upload and extraction (by developing an approx. 500 LOC).
+Implemented a solution to optimize the package extraction using OS utilities instead of programmatic approach (by developing an approx. 500 LOC).
+Implemented Package versioning for single file upload and complete package functionality (by developing an approx. 100 LOC).
+Implemented a solution to mandate the images directory in the CSAR package
+Worked on design and implementation for Notification management system
+Improve Customer Experience
+The quarter initiated with my benefaction to VNF marketplace project stressing upon the users experience for the VNF and package management system.
+The two important contributions are as followed:
+“Package upload struck at 99%”:
+Implemented a solution to resolve a high priority production issue by optimizing the execution and performance time to complete package upload and extraction operation. The users were able to perform activity during this phase. Earlier, the users were restricted to perform any user activity until the package extraction is completed.
+“Make images as mandatory for CSAR packages”
+I also implemented a solution to provide support to upload images as a mandatory artefact for the CSAR package for both of the complete package and individual file upload functionalities.
+Didn’t hesitate to stretch beyond the working hours to work with onshore partners and collaborated with them to resolve the challenges faced in UAT and production issue.
+
+Agile/Devops
+Improved the code coverage
+Manage jenkins
+
+V Team Culture
+Team outing 
+Talent Transformation
+
+Technology Leadership / Innovation Ideas
+Implemented a POC on Reinforcement Learning which is one of the important algorithm of ML 
+Implemented a POC on the reinforcement learning using OpenAI-gym and mininet-wifi.
+Model Credo Behaviors:
